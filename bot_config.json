@@ -1,0 +1,10 @@
+{
+    "bot_token": "7279743667:AAHbJKx12tWP5nY_zWF6TG-6fdl1NHCOls8",
+    "admin_ids": [
+        "6994439459"
+    ],
+    "check_interval": 30,
+    "max_retries": 3,
+    "min_topup": 10,
+    "max_topup": 10000
+}

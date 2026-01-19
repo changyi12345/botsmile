@@ -1,0 +1,50 @@
+[
+    {
+        "id": "MMK1768483977_7514763923",
+        "telegram_id": 7514763923,
+        "method": "wave",
+        "method_name": "Wave Money",
+        "payment_phone": "09XXXXXXXXX",
+        "amount_mmk": 10000,
+        "amount_php": 261.78010471204186,
+        "amount_brl": 116.95906432748538,
+        "photo_file_id": "AgACAgUAAxkBAAIEt2lo7Irpgr9iXIlpqryrffOSr-FCAAJmDWsbN_BIV2-Fzaxmbpm7AQADAgADeQADOAQ",
+        "status": "approved",
+        "created_at": "2026-01-15 20:02:57",
+        "timestamp": 1768483977,
+        "approved_at": "2026-01-15 14:37:28",
+        "approved_by": "admin"
+    },
+    {
+        "id": "MMK1768485943_7514763923",
+        "telegram_id": 7514763923,
+        "method": "wave",
+        "method_name": "Wave Money",
+        "payment_phone": "09XXXXXXXXX",
+        "amount_mmk": 10000,
+        "amount_php": 0,
+        "amount_brl": 0,
+        "photo_file_id": "AgACAgUAAxkBAAIE62lo9DjSrRcajz2rSj5vZbPT30siAAJ2DWsbN_BIVxm1uirqcLFXAQADAgADeQADOAQ",
+        "status": "approved",
+        "created_at": "2026-01-15 20:35:43",
+        "timestamp": 1768485943,
+        "approved_at": "2026-01-15 15:09:43",
+        "approved_by": "admin"
+    },
+    {
+        "id": "MMK1768825977_6994439459",
+        "telegram_id": 6994439459,
+        "method": "kpay",
+        "method_name": "KPay (KBZ Pay)",
+        "payment_phone": "09XXXXXXXXX",
+        "amount_mmk": 10000,
+        "amount_php": 0,
+        "amount_brl": 0,
+        "photo_file_id": "AgACAgUAAxkBAAII4mluJHkERgRmAUvfI2a8wXA6IPhNAAJvDmsbDWNxVx84KIIQ3Cz3AQADAgADeQADOAQ",
+        "status": "approved",
+        "created_at": "2026-01-19 19:02:57",
+        "timestamp": 1768825977,
+        "approved_at": "2026-01-19 13:33:24",
+        "approved_by": "admin"
+    }
+]

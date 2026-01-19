@@ -1,0 +1,10 @@
+[
+    {
+        "telegram_id": 7829183790,
+        "username": "admin",
+        "password": "$2y$10$RcQS4s5iKkmke48tQJq3Leho8mgIb1qFfTpjbcK6PKYEyHFAQQKzC",
+        "role": "super_admin",
+        "created_at": "2026-01-15 11:11:35",
+        "status": "active"
+    }
+]

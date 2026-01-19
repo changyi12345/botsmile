@@ -1,0 +1,73 @@
+[
+    {
+        "id": "6966642e4aec9",
+        "user_id": 7829183790,
+        "type": "topup_redeem",
+        "country": "php",
+        "amount": 100,
+        "details": "Code: PHP45803505 (Commission: 0.2%)",
+        "timestamp": "2026-01-13 21:56:38"
+    },
+    {
+        "id": "696664a22ef9b",
+        "user_id": 7829183790,
+        "type": "purchase",
+        "country": "php",
+        "amount": 9.5,
+        "details": "Purchased 11 diamonds",
+        "timestamp": "2026-01-13 21:58:34"
+    },
+    {
+        "id": "69666eebbfe6c",
+        "user_id": 7829183790,
+        "type": "purchase",
+        "country": "php",
+        "amount": 9.5,
+        "details": "Purchased 11 diamonds",
+        "timestamp": "2026-01-13 22:42:27"
+    },
+    {
+        "id": "TX1768484248_7514763923",
+        "user_id": 7514763923,
+        "type": "mmk_topup",
+        "country": "php",
+        "amount": 261.78010471204186,
+        "details": "MMK Top Up - Wave Money - 10,000 Ks",
+        "status": "completed",
+        "created_at": "2026-01-15 14:37:28",
+        "timestamp": 1768484248
+    },
+    {
+        "id": "TX1768486183_7514763923",
+        "user_id": 7514763923,
+        "type": "mmk_topup",
+        "country": "mmk",
+        "amount": 10000,
+        "details": "MMK Top Up - Wave Money - 10,000 Ks",
+        "status": "completed",
+        "created_at": "2026-01-15 15:09:43",
+        "timestamp": 1768486183
+    },
+    {
+        "id": "69694a1b3efef",
+        "user_id": "7514763923",
+        "type": "purchase",
+        "country": "",
+        "amount": 1026,
+        "details": "Purchased vp Diamonds (0 diamonds) - Order: 69694a1b3ebdc - IGN: \u029f\u1d07\u1d0f\u1d0d\u1d0f\u0274\u5f61 (Paid with MMK)",
+        "timestamp": "2026-01-16 02:42:11",
+        "status": "failed",
+        "updated_at": "2026-01-15 21:22:54"
+    },
+    {
+        "id": "TX1768826004_6994439459",
+        "user_id": 6994439459,
+        "type": "mmk_topup",
+        "country": "mmk",
+        "amount": 10000,
+        "details": "MMK Top Up - KPay (KBZ Pay) - 10,000 Ks",
+        "status": "completed",
+        "created_at": "2026-01-19 13:33:24",
+        "timestamp": 1768826004
+    }
+]

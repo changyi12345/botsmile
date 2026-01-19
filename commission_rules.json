@@ -1,0 +1,36 @@
+{
+    "php": [
+        {
+            "min_amount": 0,
+            "max_amount": 1000,
+            "rate": 0.002
+        },
+        {
+            "min_amount": 1001,
+            "max_amount": 5000,
+            "rate": 0.005
+        },
+        {
+            "min_amount": 5001,
+            "max_amount": 10000,
+            "rate": 0.01
+        }
+    ],
+    "br": [
+        {
+            "min_amount": 0,
+            "max_amount": 1000,
+            "rate": 0.002
+        },
+        {
+            "min_amount": 1001,
+            "max_amount": 5000,
+            "rate": 0.005
+        },
+        {
+            "min_amount": 5001,
+            "max_amount": 10000,
+            "rate": 0.01
+        }
+    ]
+}

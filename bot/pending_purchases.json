@@ -1,0 +1,24 @@
+{
+    "8327081414": {
+        "country": "php",
+        "action": "enter_gameid",
+        "use_mmk": false,
+        "timestamp": 1768506645
+    },
+    "7790307364": {
+        "action": "waiting_pubg_player_id",
+        "country": "pubg_br",
+        "timestamp": 1768821907
+    },
+    "7514763923": {
+        "country": "br",
+        "package_name": "Diamond\u00d71860+335",
+        "price": 147,
+        "currency": "BRL",
+        "product_id": "27",
+        "timestamp": 1768822798,
+        "use_mmk": false,
+        "game_id": "415270669",
+        "zone_id": "9928"
+    }
+}

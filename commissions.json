@@ -1,0 +1,12 @@
+[
+    {
+        "id": "6966642e4ab9c",
+        "user_id": 7829183790,
+        "country": "php",
+        "original_amount": 100,
+        "commission": 0.2,
+        "net_amount": 99.8,
+        "rate": 0.2,
+        "timestamp": "2026-01-13 21:56:38"
+    }
+]
